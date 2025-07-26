@@ -38,11 +38,15 @@ outputs/
 
 ## Installation
 ```bash
-pip install -r requirements.txt  
-##Run
+pip install -r requirements.txt
+```
+## Run
+```bash
 python src/mnist_train.py
 python src/mnist_predict.py
+```
 
+---
 
-##License
+## License
 This project is licensed under the MIT License.
